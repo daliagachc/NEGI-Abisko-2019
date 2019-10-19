@@ -126,7 +126,7 @@
       url: /setup/laptop_setup
     - title: Jupyterhub setup
       url: /setup/jupyterhub_setup
-  - title: Get ready with Jupyter 
+  - title: Get ready with Jupyter
     url: https://jupyter.org/try
     external: true
     not_numbered: true
@@ -135,7 +135,7 @@
     external: true
     not_numbered: true
 
-# During the course 
+# During the course
 
 - title: Course Contribution
   url: /contributing/os_contribution
@@ -168,7 +168,7 @@
   - title: Getting started with Git/Github
     url: /training/github/intro_github
     not_numbered: true
-    subsections: 
+    subsections:
     - title: Synchronize your fork github repository
       url: /training/github/synchronise_github
   - title: Visualize in Python
@@ -177,18 +177,21 @@
   - title: Python examples
     url: /training/python_examples
     not_numbered: true
-    subsections: 
+    subsections:
     - title: Aerosol distribution plotting
       url: /training/visualize/zeppelin_size_dist
       not_numbered: true
     - title: Example NorthPolarStereo_projection
       url: /training/example_NorthPolarStereo_projection
       not_numbered: true
-    - title: Example Weighted/masked average 
+    - title: Example Weighted/masked average
       url: /training/Example_model_global_arctic_average
       not_numbered: true
     - title: Gridded model data dask rolling mean
       url: /training/gridded_model_data_dask_rolling_mean
+      not_numbered: true
+    - title: Gridded model data dask rolling mean II
+      url: /training/dask_kernel/dask_kernel
       not_numbered: true
   - title: Pyaerocom
     url: /training/pyaerocom/intro
@@ -196,7 +199,7 @@
     subsections:
     - title: pyaerocom jupyter notebook
       url: /training/pyaerocom/jgliss_intro_model_evaluation_pyaerocom
-      not_numbered: true   
+      not_numbered: true
     - title: pyaerocom EBAS example
       url: /training/pyaerocom/example_ebas_read
     - title: How to find EBAS files
@@ -213,7 +216,7 @@
       url: /training/CMIP6_example
     - title: CMIP6 data with dask cluster
       url: /training/CMIP6_dask
-    - title: Search CMIP6 historical data 
+    - title: Search CMIP6 historical data
       url: /training/example_search_cmip6_historical
 
 # Divider for meta-pages and content page
